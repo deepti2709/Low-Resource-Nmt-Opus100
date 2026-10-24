@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "Evaluation of Multilingual Pretraining for Low-Resource Neural Machine Translation (code)"
+type: software
+authors:
+  - family-names: Chopra
+    given-names: Deepti
+  - family-names: Lamba
+    given-names: Monika
+  - family-names: Pandey
+    given-names: Sakshi
+  - family-names: Maheshwari
+    given-names: Shikha
+license: MIT
+repository-code: "https://github.com/deepti2709/low-resource-nmt-opus100"
+
